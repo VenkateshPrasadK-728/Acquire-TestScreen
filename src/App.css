@@ -1,0 +1,99 @@
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.leftpane {
+    width: 15%;
+    height: 100%;
+    float: left;
+    border-collapse: collapse;
+}
+
+.middlepane {
+    width: 55%;
+    height: 100%;
+    float: left;
+    border-collapse: collapse;
+}
+
+.rightpane {
+  width: 30%;
+  height: 100%;
+  position: relative;
+  float: right;
+  border-collapse: collapse;
+}
+.label{
+font-family: Futura-Medium;
+font-size: 22px;
+color: #0e0c8a;
+letter-spacing: 2;
+line-height: 21px;
+padding-left: 70px;
+}
+.chart{
+  background: #FFFFFF;
+  border-radius: 10px;
+  border-radius: 10px;
+}
+.Tabel{
+  background: #FFFFFF;
+  border-radius: 10px;
+  border-radius: 10px;
+}
+
+.gridheader{
+  padding-top: 400px;
+  font-size: 20px;
+}
+.canvas{
+  width: 100%;
+  height: 100%;
+  margin-top: 20px;
+}
+.canvaschart{
+  width: 75%;
+  height: 100%;
+  float: left;
+  border-collapse: collapse;
+}
+
+.canvasreport{
+  width: 25%;
+  height: 100%;
+  float: right;
+  border-collapse: collapse;
+}
+
+.reportlabel{
+  font-family: Futura-Medium;
+  font-size: 20px;
+  color: #000000;
+  letter-spacing: 0;
+}
+.sublabel{
+  font-family: FuturaBT-Book;
+  font-size: 13px;
+  color: #55728B;
+  letter-spacing: 0;
+}
+
+.progressnegative {
+  background: red;
+}
+
+.MuiPaper-rounded {
+  margin-top: 10px;
+  margin-left: 30px;
+  width:700px;
+}
+
+.widget{
+  margin-top: 15px;
+}
+
+.calender{
+  width: 300px;
+  height:90px;
+}
